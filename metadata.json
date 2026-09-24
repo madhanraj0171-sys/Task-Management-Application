@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Plan your work. Track your progress. A simple, clean, and full-stack task management application with JWT authentication, task tracking, and priority filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
